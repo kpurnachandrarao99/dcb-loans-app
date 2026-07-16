@@ -2,3 +2,6 @@
 a =1
 b=2
 c=a+b
+
+// story-131
+int age = 20
